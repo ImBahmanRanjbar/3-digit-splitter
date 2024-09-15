@@ -1,0 +1,6 @@
+C:\Users\Home\Desktop\3-digit-splitter\3-digit-splitter\bin\Debug\3-digit-splitter.exe.config
+C:\Users\Home\Desktop\3-digit-splitter\3-digit-splitter\bin\Debug\3-digit-splitter.exe
+C:\Users\Home\Desktop\3-digit-splitter\3-digit-splitter\bin\Debug\3-digit-splitter.pdb
+C:\Users\Home\Desktop\3-digit-splitter\3-digit-splitter\obj\Debug\3-digit-splitter.csprojResolveAssemblyReference.cache
+C:\Users\Home\Desktop\3-digit-splitter\3-digit-splitter\obj\Debug\3-digit-splitter.exe
+C:\Users\Home\Desktop\3-digit-splitter\3-digit-splitter\obj\Debug\3-digit-splitter.pdb
